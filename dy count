@@ -1,0 +1,6 @@
+print("enter the days")
+a=int(input())
+b=a//365
+c=(a-(b*365))//30
+d=(a-(b*365))-(c*30)
+print(b,"years",c,"months",d,"days")

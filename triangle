@@ -1,0 +1,8 @@
+print("enter length,breadth,height of the triangle respectively")
+a=int(input())
+b=int(input())
+c=int(input())
+perimeter=(a+b+c)
+print("perimeter of the trianglo is =",perimeter)
+d=(perimeter-a)*1/2
+print("AREA OF HE TRIANGLE IS",d)

@@ -1,0 +1,5 @@
+print("enter two nuhumbers which you want the the sum of")
+a=int(input())
+b=int(input())
+c=a+b
+print("sum of ",a,"and",b,"is",c)
